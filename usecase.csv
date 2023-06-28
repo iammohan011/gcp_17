@@ -1,0 +1,3 @@
+C:\Users\DELL E5490\AppData\Local\Google\Cloud SDK>bq load --source_format=CSV --skip_leading_rows=1 repurchase_stage_dset.repurchase_stage_table gs://repurchase1/Repurchase_Product.csv
+Waiting on bqjob_r76af6ae1b20075d9_00000188fcc5fc9f_1 ... (0s) Current status: DONE
+
